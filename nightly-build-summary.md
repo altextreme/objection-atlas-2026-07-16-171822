@@ -7,7 +7,8 @@
 - **Username:** `anthony@tackettdesign.com`
 - **Password:** `BYU56WL8Anm68yTTQ7uPNjdu`
 - **Repo:** https://github.com/altextreme/objection-atlas-2026-07-16-171822
-- **Commit:** `6be2facaf5cefee09e0c93f8e9951ce41b4d75b0`
+- **Repo HEAD:** `7ec0ef863f2fb2f1448ca335a7f5e6393a09b7aa`
+- **App commit at deploy time:** `a1952ff1fed022a0f440ec8682b7b1f4bd939a86`
 - **Project dir:** `/home/altextreme/projects/objection-atlas-2026-07-16-171822`
 - **Inspect URL:** https://vercel.com/altextremes-projects/objection-atlas-2026-07-16-171822/8jCCWSkEFYuo1bvRhjJvxEbpPHkA
 - **Deployment ID:** `dpl_8jCCWSkEFYuo1bvRhjJvxEbpPHkA`
